@@ -8,13 +8,7 @@ The user can write/draw virtually using the in-built tools which provides virtua
 
 Programming Language : Python
 
-Libraries
-
-Mediapipe
-CV2
-PIL
-img2pdf
-os
+Libraries : Mediapipe, CV2, PIL, img2pdf, os.
 
 
 
